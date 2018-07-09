@@ -43,7 +43,7 @@ if (!defined('BASEPATH'))
   |
  */
 
-$autoload['libraries'] = array('database','session');
+$autoload['libraries'] = array('database');
 $autoload['packages'] = array();
 
 /*

@@ -48,10 +48,10 @@
 $active_group = 'default';
 //$active_record = TRUE;
 $query_builder = TRUE;
-$db['default']['hostname'] = "localhost";
+$db['default']['hostname'] = "localhost:3307";
 $db['default']['username'] = "root";
 $db['default']['password'] = "";
-$db['default']['database'] = "demo";
+$db['default']['database'] = "uem_vehicle";
 
 
 

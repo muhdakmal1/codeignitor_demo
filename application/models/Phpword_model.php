@@ -13,7 +13,7 @@ class Phpword_model extends CI_Model {
 
 
     function get_news() {
-        $query = $this->db->get('ci_news');
+        $query = $this->db->get('vehicle_list');
         return $query->result_array();
     }
 

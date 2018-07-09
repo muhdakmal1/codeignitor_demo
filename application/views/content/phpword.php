@@ -24,5 +24,5 @@
     <?php endforeach ?>
 </table>
 </div>
-<a href="<?= base_url()?>Phpword/download" class="btn btn-success">Download word file</a>
+<a href="<?= base_url()?>Phpword/download1" class="btn btn-success">Download word file</a>
 
